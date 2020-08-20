@@ -1,0 +1,1 @@
+jupyter notebook --NotebookApp.token=dummydummy --ip 127.0.0.1 --no-browser --allow-root --port 8888

@@ -1,0 +1,165 @@
+Start time  =   2020-03-15 23:18:26.851877
+events num  =  2500
+threshold  =  0.1
+mean: nan
+mean after outlier del: -6.266104199573568
+c:\users\jw\anaconda3\lib\site-packages\ipykernel_launcher.py:86: RuntimeWarning: invalid value encountered in greater
+threshold  =  0.3020408163265306
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  0.5040816326530613
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  0.7061224489795919
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  0.9081632653061225
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  1.1102040816326533
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  1.3122448979591839
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  1.5142857142857145
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  1.716326530612245
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  1.9183673469387756
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  2.1204081632653065
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  2.322448979591837
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  2.5244897959183676
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  2.7265306122448982
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  2.928571428571429
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  3.1306122448979594
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  3.33265306122449
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  3.5346938775510206
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  3.736734693877551
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  3.938775510204082
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  4.140816326530612
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  4.3428571428571425
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  4.544897959183674
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  4.746938775510204
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  4.948979591836735
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  5.151020408163265
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  5.353061224489796
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  5.555102040816326
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  5.757142857142857
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  5.959183673469387
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  6.161224489795918
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  6.3632653061224485
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  6.5653061224489795
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  6.7673469387755105
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  6.969387755102041
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  7.171428571428572
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  7.373469387755102
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  7.575510204081633
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  7.777551020408163
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  7.979591836734694
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  8.181632653061225
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  8.383673469387755
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  8.585714285714285
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  8.787755102040816
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  8.989795918367347
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  9.191836734693878
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  9.393877551020408
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  9.595918367346938
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  9.79795918367347
+mean: nan
+mean after outlier del: -6.266104199573568
+threshold  =  10.0
+mean: nan
+mean after outlier del: -6.266104199573568
+FN  =  [783, 755, 722, 686, 652, 620, 580, 530, 486, 437, 388, 341, 291, 250, 208, 174, 139, 113, 93, 79, 62, 54, 43, 32, 25, 21, 17, 15, 13, 12, 10, 7, 7, 6, 6, 6, 4, 4, 4, 4, 4, 4, 3, 3, 2, 1, 1, 1, 1, 1]
+TP  =  [17, 45, 78, 114, 148, 180, 220, 270, 314, 363, 412, 459, 509, 550, 592, 626, 661, 687, 707, 721, 738, 746, 757, 768, 775, 779, 783, 785, 787, 788, 790, 793, 793, 794, 794, 794, 796, 796, 796, 796, 796, 796, 797, 797, 798, 799, 799, 799, 799, 799]
+FP  =  [94, 284, 475, 667, 850, 1036, 1223, 1412, 1597, 1776, 1956, 2145, 2333, 2526, 2736, 2948, 3146, 3343, 3531, 3705, 3871, 4053, 4168, 4282, 4367, 4434, 4503, 4564, 4612, 4650, 4679, 4713, 4737, 4754, 4775, 4790, 4804, 4813, 4823, 4831, 4836, 4854, 4866, 4874, 4883, 4893, 4905, 4917, 4922, 4926]
+TN  =  [4906, 4716, 4525, 4333, 4150, 3964, 3777, 3588, 3403, 3224, 3044, 2855, 2667, 2474, 2264, 2052, 1854, 1657, 1469, 1295, 1129, 947, 832, 718, 633, 566, 497, 436, 388, 350, 321, 287, 263, 246, 225, 210, 196, 187, 177, 169, 164, 146, 134, 126, 117, 107, 95, 83, 78, 74]
+false_alarm_rate  =  [0.0188, 0.0568, 0.095, 0.1334, 0.17, 0.2072, 0.2446, 0.2824, 0.3194, 0.3552, 0.3912, 0.429, 0.4666, 0.5052, 0.5472, 0.5896, 0.6292, 0.6686, 0.7062, 0.741, 0.7742, 0.8106, 0.8336, 0.8564, 0.8734, 0.8868, 0.9006, 0.9128, 0.9224, 0.93, 0.9358, 0.9426, 0.9474, 0.9508, 0.955, 0.958, 0.9608, 0.9626, 0.9646, 0.9662, 0.9672, 0.9708, 0.9732, 0.9748, 0.9766, 0.9786, 0.981, 0.9834, 0.9844, 0.9852]
+miss_rate  =  [0.97875, 0.94375, 0.9025, 0.8575, 0.815, 0.775, 0.725, 0.6625, 0.6075, 0.54625, 0.485, 0.42625, 0.36375, 0.3125, 0.26, 0.2175, 0.17375, 0.14125, 0.11625, 0.09875, 0.0775, 0.0675, 0.05375, 0.04, 0.03125, 0.02625, 0.02125, 0.01875, 0.01625, 0.015, 0.0125, 0.00875, 0.00875, 0.0075, 0.0075, 0.0075, 0.005, 0.005, 0.005, 0.005, 0.005, 0.005, 0.00375, 0.00375, 0.0025, 0.00125, 0.00125, 0.00125, 0.00125, 0.00125]
+hit_rate  =  [0.02124999999999999, 0.05625000000000002, 0.09750000000000003, 0.14249999999999996, 0.18500000000000005, 0.22499999999999998, 0.275, 0.3375, 0.39249999999999996, 0.45375, 0.515, 0.57375, 0.63625, 0.6875, 0.74, 0.7825, 0.82625, 0.85875, 0.88375, 0.90125, 0.9225, 0.9325, 0.94625, 0.96, 0.96875, 0.97375, 0.97875, 0.98125, 0.98375, 0.985, 0.9875, 0.99125, 0.99125, 0.9925, 0.9925, 0.9925, 0.995, 0.995, 0.995, 0.995, 0.995, 0.995, 0.99625, 0.99625, 0.9975, 0.99875, 0.99875, 0.99875, 0.99875, 0.99875]
+
+
+Finished.
+
+End time  =   2020-03-16 01:56:19.482587
